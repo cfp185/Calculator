@@ -16,7 +16,7 @@ By working on this project, I aim to:
 
 ## Getting Started
 ### Pre-requisites
-* **Flutter SDK**: [Install Flutter]((https://docs.flutter.dev/get-started/install))
+* **Flutter SDK**: [Install Flutter](https://docs.flutter.dev/get-started/install)
 * **Xcode**: Required for running the iPhone simulator ([download here](https://apps.apple.com/dk/app/xcode/id497799835?mt=12))
 
 ### How to Run
